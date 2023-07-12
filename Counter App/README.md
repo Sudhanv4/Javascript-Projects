@@ -1,4 +1,4 @@
-#Counter App
+# Counter App
 
 This is a simple web application that allows you to increment or decrement a number using JavaScript.
 
